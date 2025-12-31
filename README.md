@@ -1,6 +1,6 @@
 # Bright DataのFast Proxies
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/solutions/fast-proxies) 
+[![Promo](https://github.com/bright-jp/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/solutions/fast-proxies) 
 
 ## Overview
 正確なターゲティング、比類のない安定性、そして高速なレスポンスタイムを提供するように設計されたBright Dataの[fast proxies](https://brightdata.jp/solutions/fast-proxies)で、シームレスなスクレイピングをご体験ください。
@@ -25,7 +25,7 @@
 - **倫理的に取得**: すべてのプロキシは、ユーザーの明示的な同意に基づいて取得されています。
 - **無制限の同時セッション**: 制限なく運用をスケールできます。
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/solutions/fast-proxies) 
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/solutions/fast-proxies) 
 
 ## Getting Started with Fast Proxies
 1. **無料トライアルを開始**: クレジットカードは不要です。
